@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Q.cpp
+c:\users\asuna\desktop\q-learning\q\q\q.cpp(18): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\asuna\desktop\q-learning\q\q\q.cpp(37): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Q.vcxproj -> C:\Users\Asuna\Desktop\Q-learning\Q\Debug\Q.exe
+  Q.vcxproj -> C:\Users\Asuna\Desktop\Q-learning\Q\Debug\Q.pdb (Full PDB)
